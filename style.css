@@ -1,0 +1,16 @@
+
+
+
+
+:root{
+    --primarycolor: #4CAF4F;
+}
+
+
+
+/* navbar start */
+
+.greenbtn{
+    background-color: var(--primarycolor);
+}
+
