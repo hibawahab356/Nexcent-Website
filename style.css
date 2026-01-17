@@ -4,6 +4,7 @@
 
 :root{
     --primarycolor: #4CAF4F;
+    --secondarycolor: #F5F7FA;
 }
 
 
@@ -12,5 +13,16 @@
 
 .greenbtn{
     background-color: var(--primarycolor);
+    
 }
 
+
+/* hero section start */
+
+
+.hero{
+    background-color: var(--secondarycolor);
+}
+.years{
+    color: var(--primarycolor) !important;
+}
