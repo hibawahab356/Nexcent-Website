@@ -26,3 +26,18 @@
 .years{
     color: var(--primarycolor) !important;
 }
+
+
+/* hero section end */
+
+
+/* client section start */
+@media screen  and (min-width: 579px){
+
+   
+
+    .images{
+        width: 6% !important;
+    }
+    
+}
