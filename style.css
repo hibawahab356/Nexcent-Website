@@ -46,6 +46,34 @@
 /* Feature  section end */
 
 
+
+
+/* grade sec start */
+
+
+.lie{
+    width: 92%;
+}
+
+.very{
+    width: 53%;
+}
+
+/* garde sec end */
+
+
+
+
+/* community start */
+.people{
+    width: 24%;
+}
+
+.right{
+    width: 100%;
+}
+
+
 /*Libero section start  */
 .demo{
     font-size:30px;
@@ -59,7 +87,7 @@ background-color: #4CAF4F;
   
 /* Libero section end */
 
-/* client section start */
+
 @media screen  and (min-width: 579px){
 
    
@@ -71,14 +99,30 @@ background-color: #4CAF4F;
 }
 
 
-/* client section end */
 
 
-/* community start */
-.people{
-    width: 24%;
-}
 
-.right{
-    width: 100%;
+
+
+
+
+
+@media screen and (max-width:991px) {
+    
+  
+    
+    
+
+    .sit{
+        font-size: 35px;
+    }
+    .tie{
+         order: 1;
+    }
+
+    .seen{
+        width: 100%;
+        order: 2;
+       
+    }
 }
