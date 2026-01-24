@@ -31,6 +31,34 @@
 /* hero section end */
 
 
+/* Feature section start */
+
+.like{
+    width: 43%;
+    font-size: 20%;
+}
+
+.self{
+ color: #4CAF4F !important;
+
+}
+
+/* Feature  section end */
+
+
+/*Libero section start  */
+.demo{
+    font-size:30px;
+
+}
+
+.colorbtn{
+background-color: #4CAF4F;
+  
+}
+  
+/* Libero section end */
+
 /* client section start */
 @media screen  and (min-width: 579px){
 
